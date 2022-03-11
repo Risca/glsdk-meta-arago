@@ -22,7 +22,7 @@ branch: dylan
 revision: HEAD
 layers: meta-linaro-toolchain
 
-Send pull requests to meta-arago@arago-project.org
+Send pull requests to meta-arago@lists.yoctoproject.org
 
 Layer maintainers: Chase Maupin <chase.maupin@ti.com>
                    Denys Dmytriyenko <denys@ti.com>
