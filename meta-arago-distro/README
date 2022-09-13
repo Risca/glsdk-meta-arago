@@ -13,7 +13,7 @@ branch: dylan
 revision: HEAD
 layers: meta-oe, toolchain-layer, meta-networking
 
-URI: git://arago-project.org/git/meta-ti
+URI: git://git.ti.com/arago-project/meta-ti.git
 branch: dylan
 revision: HEAD
 
