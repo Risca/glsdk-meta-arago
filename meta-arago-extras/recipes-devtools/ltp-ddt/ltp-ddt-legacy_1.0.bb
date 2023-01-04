@@ -11,4 +11,4 @@ RCONFLICTS_${PN} += "ltp-ddt"
 PR := "${PR}.0"
 
 SRCREV = "1973c7e79f2ad1b595d5d1687db828f3f3998387"
-BRANCH = "v3.2"
+BRANCH = "master"
