@@ -1,5 +1,5 @@
 DESCRIPTION = "Qt Quick Playground"
-HOMEPAGE = "http://arago-project.org/git/projects/?p=qt4-demos.git;a=summary"
+HOMEPAGE = "https://github.com/Risca/qt4-demos"
 SECTION = "multimedia"
 LICENSE = "Nokia"
 LIC_FILES_CHKSUM = "file://Licence.txt;md5=7cc88160b55ec5db6c6c5bb8e3238c0b"
@@ -11,7 +11,7 @@ PR = "r0"
 BRANCH = "master"
 SRCREV = "49bb5b7e1df2f61fc361b7d83a6ec838ffc5381c"
 
-SRC_URI = "git://arago-project.org/git/projects/qt4-demos.git;protocol=git;branch=${BRANCH}"
+SRC_URI = "https://github.com/Risca/qt4-demos.git;protocol=git;branch=${BRANCH}"
 
 S = "${WORKDIR}/git/qml_playground"
 
